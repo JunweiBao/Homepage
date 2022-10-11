@@ -61,5 +61,5 @@ My pleasure and great honor to work with these smart students.
 - Shichang Ouyang (M.S. at Nothest University, 2 IJCAI)
 
 ### Colleagues 
-- Xiaodong He, Youzheng Wu, Tiejun Zhao, Shuguang Cui, Yeyun Gong, Haipeng Sun, Chaoqun Duan, Huaishao Luo.
+- Xiaodong He, Youzheng Wu, Ming Zhou, Tiejun Zhao, Nan Duan, Shuguang Cui, Yeyun Gong, Zhao Yan, Haipeng Sun, Chaoqun Duan, Huaishao Luo, Guanlin Li.
 
