@@ -7,7 +7,7 @@ I received his Ph.D. degree in Computer Science and Technology from Harbin Insti
 
 ## More about me
 
-I am from Anshan in Liaoning Provice. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Jan. 2019, under the instructions of Prof. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and montored by [Nan Duan](https://nanduan.github.io/). After that, I was a researcher at JD AI Research at JD.com, Beijing, working with Prof. [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en) and [Youzheng Wu](https://sites.google.com/site/erzhengcn/). 
+I am from Anshan in Liaoning Provice. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Jan. 2019, under the instructions of Prof. [Ming Zhou](https://scholar.google.com/citations?user=-HBuUWAAAAAJ&hl=en) and montored by [Nan Duan](https://nanduan.github.io/). After that, I was a researcher at JD AI Research at JD.com, Beijing, working with Prof. [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en) and [Youzheng Wu](https://sites.google.com/site/erzhengcn/). 
 
 ## News
 - 02/2022: Our [UniRPG]() (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
