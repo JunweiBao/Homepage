@@ -7,17 +7,14 @@ I received his Ph.D. degree in Computer Science and Technology from Harbin Insti
 
 ## More about me
 
-I am from Anshan in Liaoning Provice. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Jan. 2019, under the instructions of Prof. [Ming Zhou]([http://encs.hit.edu.cn/2016/0229/c5511a144140/page.htm](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en)) and montored by [Nan Duan](https://nanduan.github.io/). After that, I was a researcher at JD AI Research at JD.com, Beijing, working with Prof. [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en) and [Youzheng Wu](https://sites.google.com/site/erzhengcn/). 
+I am from Anshan in Liaoning Provice. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Jan. 2019, under the instructions of Prof. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and montored by [Nan Duan](https://nanduan.github.io/). After that, I was a researcher at JD AI Research at JD.com, Beijing, working with Prof. [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en) and [Youzheng Wu](https://sites.google.com/site/erzhengcn/). 
 
 ## News
-- 03/2022: Tutorials accepted by [IJCAI 2022](https://ijcai-22.org/tutorials/) and [SIGIR 2022](https://sigir.org/sigir2022/program/tutorials/).
-- 02/2022: Five papers accepted by ACL 2022 and one paper by NAACL 2022.
-- 11/2021: Four papers accepted by EMNLP 2021.
-- 07/2021: Outstanding Paper Award at ACL 2021. 
-- 05/2021: Seven papers accepted by ACL 2021. 
-- 07/2020: Best Demo Award at CCL 2020. 
-- 04/2020: Two papers accepted by ACL 2020.
-- 02/2020: One paper accepted by JAIR.
+- 02/2022: Our [UniRPG]() (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
+- 02/2022: Our [OPERA++](https://aclanthology.org/2022.naacl-main.119.pdf) (NAACL 2022) achieves the Top-1 on [DROP](https://leaderboard.allenai.org/drop/submissions/public) leaderboard.
+- 05/2021: Our [P3LM]() (EMNLP 2022-Findings) achieves the Top-2 on [GLGE](https://microsoft.github.io/glge/) leaderboard.
+- 01/2021: Our [RoR](https://aclanthology.org/2021.findings-emnlp.160.pdf) achieves the Top-1 on [QuAC](https://quac.ai/) leaderboard.
+- 01/2021: Our [MuGER2]() (EMNLP 2022-Findings) achieves the Top-1 on [QuAC](https://quac.ai/) leaderboard.
 
 
 ## Opening Positions
