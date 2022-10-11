@@ -53,7 +53,7 @@ My pleasure and great honor to work with these smart students.
 - Yongwei Zhou (Ph.D. candidate at HIT, 08/2018 - )
 - Haoning Zhang (Ph.D. candidate at CUHK-Shenzhen, 01/2019 - )
 - Yu Lu (Ph.D. candidate at CUHK-Shenzhen, 01/2019 - )
-- Guanyi Liu (Ph.D candidate at CUHK-Shenzhen, 1 COLING + 1 NAACL)
+- Guanyi Liu (Ph.D candidate at CUHK-Shenzhen, 08/2018 - )
 
 #### Past Interns/Students
 - Jing Zhao (M.S. at Civil Aviation University, 1 ACL + 2 EMNLP Findings + 3 NAACL)
