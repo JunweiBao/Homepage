@@ -25,8 +25,22 @@ I have some intern positions available at JD AI Research NLP group, JD.com. If y
 
 ## Selected Publications
 #### For full publication list, please check [publication page](publications.md).
-- Junwei Bao, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He. EMNLP 2022(Findings)
-
+- Junwei Bao, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He. P3LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training. EMNLP (Findings) 2022
+- Yongwei Zhou, Junwei Bao*, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao. UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation. EMNLP 2022
+- Yingyao Wang, Junwei Bao*, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao. MuGER2: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering. EMNLP (Findings) 2022
+- Yongwei Zhou, Junwei Bao*, Chaoqun Duan, Haipeng Sun, Jiahui Liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao: OPERA: Operation-Pivoted Discrete Reasoning over Text. NAACL 2022
+- Haipeng Sun, Junwei Bao*, Youzheng Wu, Xiaodong He: BORT: Back and Denoising Reconstruction for End-to-End Task-Oriented Dialog. NAACL (Findings) 2022
+- Yifan Wang, Jing Zhao, Junwei Bao*, Chaoqun Duan, Youzheng Wu, Xiaodong He: LUNA: Learning Slot-Turn Alignment for Dialogue State Tracking. NAACL 2022
+- Jing Zhao, Yifan Wang, Junwei Bao*, Youzheng Wu, Xiaodong He: Fine- and Coarse-Granularity Hybrid Self-Attention for Efficient BERT. ACL 2022
+- Yu Lu, Junwei Bao*, Yan Song, Zichen Ma, Shuguang Cui, Youzheng Wu, Xiaodong He: RevCore: Review-Augmented Conversational Recommendation. ACL (Findings) 2021
+- Jing Zhao, Junwei Bao*, Yifan Wang, Yongwei Zhou, Youzheng Wu, Xiaodong He, Bowen Zhou: RoR: Read-over-Read for Long Document Machine Reading Comprehension. EMNLP (Findings) 2021
+- Jing Zhao, Junwei Bao*, Yifan Wang, Youzheng Wu, Xiaodong He, Bowen Zhou: SGG: Learning to Select, Guide, and Generate for Keyphrase Generation. NAACL 2021
+- Yingyao Wang, Junwei Bao*, Guangyi Liu, Youzheng Wu, Xiaodong He, Bowen Zhou, Tiejun Zhao: Learning to Decouple Relations: Few-Shot Relation Classification with Entity-Guided Attention and Confusion-Aware Training. COLING 2020
+- Junwei Bao, Duyu Tang, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao: Text Generation From Tables. IEEE/ACM TASLP 2019
+- Junwei Bao, Yeyun Gong, Nan Duan, Ming Zhou, Tiejun Zhao: Question Generation With Doubly Adversarial Nets. IEEE/ACM TASLP 2018
+- Junwei Bao, Duyu Tang, Nan Duan, Zhao Yan, Yuanhua Lv, Ming Zhou, Tiejun Zhao: Table-to-Text: Describing Table Region With Natural Language. AAAI 2018
+- Junwei Bao, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao: Constraint-Based Question Answering with Knowledge Graph. COLING 2016
+- Junwei Bao, Nan Duan, Ming Zhou, Tiejun Zhao: Knowledge-Based Question Answering as Machine Translation. ACL 2014
 
 ## Collaborators
 
@@ -34,7 +48,7 @@ I have some intern positions available at JD AI Research NLP group, JD.com. If y
 My pleasure and great honor to work with these smart students.
 
 #### Current Interns/Students
-- Yingyao Wnag (Ph.D. candidate at HIT, 08/2017 - )
+- Yingyao Wang (Ph.D. candidate at HIT, 08/2017 - )
 - Yongwei Zhou (Ph.D. candidate at HIT, 08/2018 - )
 - Haoning Zhang (Ph.D. candidate at CUHK-Shenzhen, 01/2019 - )
 - Yu Lu (Ph.D. candidate at CUHK-Shenzhen, 01/2019 - )
