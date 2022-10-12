@@ -3,7 +3,7 @@
 
 <img align="left" src="citations.jpg" width=140 height=150 alt="a photo" style="padding-right:10px">
 
-I received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology in 2019, after 6 years of NLP research in MSRA. He has published more than 20 papers in top-tier conferences and journals, e.g., ACL and AAAI. Currently, he focuses on NLP and conversational AI research including pre-training, dialog, question answering, reasoning, machine reading comprehension, and text generation. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
+I received my Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology in 2019, after 6 years of NLP research in MSRA. I have published more than 20 papers in top-tier conferences and journals, e.g., ACL and AAAI. Currently, I focus on NLP and conversational AI research including pre-training, dialog, question answering, reasoning, machine reading comprehension, and text generation. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
 
 
 ## More about me
