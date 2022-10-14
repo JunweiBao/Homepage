@@ -1,10 +1,10 @@
-# Intern Recruitment at [LAT Group](lat.md), NLP Center, Tencent AI Lab. 
+# Intern Recruitment at [JD AI Research](lat.md), JD.com. 
 
 ## Basic Information  
 
 - Intern Vacancies: 2
-- Location: Shenzhen
-- Contact: EMAIL@tencent.com where EMAIL belongs to {redmondliu, donkeyhuang, alanili, newmanli}
+- Location: Beijing
+- Contact: EMAIL@jd.com where EMAIL belongs to {baojunwei}
 
 
 ## Responsibilities
