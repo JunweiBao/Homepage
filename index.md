@@ -1,6 +1,6 @@
 # Junwei Bao's Homepage
 
-<img align="left" src="citations.jpg" width=160 height=170 alt="a photo" style="padding-right:10px">
+<img align="left" src="citations.jpg" width=170 height=180 alt="a photo" style="padding-right:10px">
 
 I am an NLP researcher at [JD AI Research](jdai.md) and an engineer at the Inteligent Service and Product department in JD Technology (JDT:京东科技). I have published more than 20 papers in top-tier conferences and journals, e.g., ACL, EMNLP, NAACL, COLING and AAAI. Currently, I focus on NLP and conversational AI research including pre-training, dialog, question answering, reasoning, machine reading comprehension, and text generation. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
 
