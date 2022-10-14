@@ -1,6 +1,6 @@
 
 # Welcome to JD AI Research
-JD AI Research. 
+JD AI Research is a virtual orignation as JD Technology. We foucus on AI research and projects. Please visit our [Github](https://github.com/JD-AI-Research-NLP/) for more information.
 
 ## Research Fields
 
