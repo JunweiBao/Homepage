@@ -33,7 +33,7 @@ I have some intern positions available at JD AI Research NLP group, JD.com. If y
 - **Junwei Bao**, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He:  
   **P3LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training**. EMNLP (Findings) 2022
 
-- Yongwei Zhou, **Junwei Bao**, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao:  
+- Yongwei Zhou, **Junwei Bao***, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao:  
   **UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation**. EMNLP 2022
 
 - Yingyao Wang, **Junwei Bao**, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao:  
