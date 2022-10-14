@@ -107,8 +107,8 @@ My pleasure and great honor to work with these smart students.
 
 #### Past Interns/Students
 - Jing Zhao (M.S. at Civil Aviation University, 1 ACL + 2 EMNLP Findings + 3 NAACL)
-- Yatong Sun (M.S. at Nothest University)
 - Shichang Ouyang (M.S. at Nothest University, 2 IJCAI)
+- Yatong Sun (M.S. at Nothest University)
 
 ### Colleagues 
 - Xiaodong He, Youzheng Wu, Ming Zhou, Tiejun Zhao, Nan Duan, Shuguang Cui, Yeyun Gong, Zhao Yan, Haipeng Sun, Chaoqun Duan, Huaishao Luo, Guanlin Li.
