@@ -1,4 +1,4 @@
-# Intern Recruitment at [JD AI Research](lat.md), JD.com. 
+# Intern Recruitment at [JD AI Research](jdai.md), JD.com. 
 
 ## Basic Information  
 
