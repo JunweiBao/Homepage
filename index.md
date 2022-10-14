@@ -12,7 +12,7 @@ I am an NLP researcher at [JD AI Research](jdai.md) and an engineer at the Intel
 
 ## Education
 
-I am from Anshan in Liaoning Provice. I received my Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology ([HIT：哈尔滨工业大学](http://www.hit.edu.cn/)) at January 03, 2019, after 6 years of NLP research in MSRA. I earned my Ph.D. degree under the instructions of Prof. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and [Tiejun Zhao](https://baike.baidu.com/item/%E8%B5%B5%E9%93%81%E5%86%9B/7533734), and montored by [Nan Duan](https://nanduan.github.io/). After that, I was a researcher at JD AI Research at JD.com, Beijing, working with Prof. [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en) and [Youzheng Wu](https://sites.google.com/site/erzhengcn/). 
+I am from Anshan in Liaoning Provice. I received my Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology ([HIT:哈尔滨工业大学](http://www.hit.edu.cn/)) at January 03, 2019, after 6 years of NLP research in MSRA. I earned my Ph.D. degree under the instructions of Prof. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and [Tiejun Zhao](https://baike.baidu.com/item/%E8%B5%B5%E9%93%81%E5%86%9B/7533734), and montored by [Nan Duan](https://nanduan.github.io/). After that, I was a researcher at JD AI Research at JD.com, Beijing, working with Prof. [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en) and [Youzheng Wu](https://sites.google.com/site/erzhengcn/). 
 
 ## News
 - 02/2022: Our [UniRPG]() (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
