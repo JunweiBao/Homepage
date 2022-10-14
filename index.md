@@ -5,8 +5,9 @@
 
 I received my Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology in 2019, after 6 years of NLP research in MSRA. I have published more than 20 papers in top-tier conferences and journals, e.g., ACL and AAAI. Currently, I focus on NLP and conversational AI research including pre-training, dialog, question answering, reasoning, machine reading comprehension, and text generation. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
 
+## [Google Scholar](https://scholar.google.com/citations?hl=en&user=hcRREnsAAAAJ) | [DBLP](https://dblp.org/pid/221/1287-1.html) | Semantic Scholar(https://www.semanticscholar.org/author/Junwei-Bao/3299718?sort=total-citations) | ACL Anthology(https://aclanthology.org/people/junwei-bao) | [LinkedIn](https://www.linkedin.cn/incareer/in/junwei-bao-b2883386)
 
-## More about me
+## Education
 
 I am from Anshan in Liaoning Provice. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Jan. 2019, under the instructions of Prof. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and [Tiejun Zhao](https://baike.baidu.com/item/%E8%B5%B5%E9%93%81%E5%86%9B/7533734), and montored by [Nan Duan](https://nanduan.github.io/). After that, I was a researcher at JD AI Research at JD.com, Beijing, working with Prof. [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en) and [Youzheng Wu](https://sites.google.com/site/erzhengcn/). 
 
