@@ -30,13 +30,13 @@ I have some intern positions available at JD AI Research NLP group, JD.com. If y
 
 ## Selected Publications
 #### For full publication list, please check [publication page](publications.md).
-- [Paper]()[Code](https://github.com/JD-AI-Research-NLP/P3LM)**Junwei Bao***, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He:  
+- [[Paper]() | [Code](https://github.com/JD-AI-Research-NLP/P3LM)]**Junwei Bao***, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He:  
   **P3LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training**. EMNLP (Findings) 2022
 
-- [Paper]()[Code](https://github.com/JD-AI-Research-NLP/UniRPG)Yongwei Zhou, **Junwei Bao***, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao:  
+- [[Paper]() | [Code](https://github.com/JD-AI-Research-NLP/UniRPG)]Yongwei Zhou, **Junwei Bao***, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao:  
   **UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation**. EMNLP 2022
 
-- [Paper]()[Code](https://github.com/JD-AI-Research-NLP/MuGER2)Yingyao Wang, **Junwei Bao***, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao:  
+- [[Paper]() | [Code](https://github.com/JD-AI-Research-NLP/MuGER2)]Yingyao Wang, **Junwei Bao***, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao:  
   **MuGER2: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering**. EMNLP (Findings) 2022
   
 - [Paper](https://arxiv.org/abs/2208.12461.pdf)[Code](https://github.com/JD-AI-Research-NLP/AutoQGS)Guanming Xiong, **Junwei Bao***, Wen Zhao, Youzheng Wu, Xiaodong He:  
