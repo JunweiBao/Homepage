@@ -2,7 +2,7 @@
 
 <img align="left" src="citations.jpg" width=160 height=170 alt="a photo" style="padding-right:10px">
 
-I received my Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology in 2019, after 6 years of NLP research in MSRA. I have published more than 20 papers in top-tier conferences and journals, e.g., ACL and AAAI. Currently, I focus on NLP and conversational AI research including pre-training, dialog, question answering, reasoning, machine reading comprehension, and text generation. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
+I am an NLP researcher at [JD AI Research](jdai.md) and an engineer at the Inteligent Service and Product department in JD Technology(JDT). I have published more than 20 papers in top-tier conferences and journals, e.g., ACL and AAAI. Currently, I focus on NLP and conversational AI research including pre-training, dialog, question answering, reasoning, machine reading comprehension, and text generation. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
 
 
 ## Links
@@ -10,7 +10,7 @@ I received my Ph.D. degree in Computer Science and Technology from Harbin Instit
 
 ## Education
 
-I am from Anshan in Liaoning Provice. I earned my Ph.D. degree at Harbin Institute of Technology (HIT) in Jan. 2019, under the instructions of Prof. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and [Tiejun Zhao](https://baike.baidu.com/item/%E8%B5%B5%E9%93%81%E5%86%9B/7533734), and montored by [Nan Duan](https://nanduan.github.io/). After that, I was a researcher at JD AI Research at JD.com, Beijing, working with Prof. [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en) and [Youzheng Wu](https://sites.google.com/site/erzhengcn/). 
+I am from Anshan in Liaoning Provice. I received my Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology ([HIT](http://www.hit.edu.cn/)) in January 03, 2019, after 6 years of NLP research in MSRA. I earned my Ph.D. degree under the instructions of Prof. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and [Tiejun Zhao](https://baike.baidu.com/item/%E8%B5%B5%E9%93%81%E5%86%9B/7533734), and montored by [Nan Duan](https://nanduan.github.io/). After that, I was a researcher at JD AI Research at JD.com, Beijing, working with Prof. [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en) and [Youzheng Wu](https://sites.google.com/site/erzhengcn/). 
 
 ## News
 - 02/2022: Our [UniRPG]() (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
@@ -28,7 +28,7 @@ I have some intern positions available at JD AI Research NLP group, JD.com. If y
 
 ## Selected Publications
 #### For full publication list, please check [publication page](publications.md).
-- Junwei Bao, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He. P3LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training. EMNLP (Findings) 2022
+- Junwei Bao, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He. *P3LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training*. EMNLP (Findings) 2022
 - Yongwei Zhou, Junwei Bao*, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao. UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation. EMNLP 2022
 - Yingyao Wang, Junwei Bao*, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao. MuGER2: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering. EMNLP (Findings) 2022
 - Yongwei Zhou, Junwei Bao*, Chaoqun Duan, Haipeng Sun, Jiahui Liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao: OPERA: Operation-Pivoted Discrete Reasoning over Text. NAACL 2022
