@@ -1,6 +1,6 @@
 # Welcome to Junwei's Homepage
 
-<img align="left" src="citations.jpg" width=150 height=160 alt="a photo" style="padding-right:10px">
+<img align="left" src="citations.jpg" width=160 height=170 alt="a photo" style="padding-right:10px">
 
 I received my Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology in 2019, after 6 years of NLP research in MSRA. I have published more than 20 papers in top-tier conferences and journals, e.g., ACL and AAAI. Currently, I focus on NLP and conversational AI research including pre-training, dialog, question answering, reasoning, machine reading comprehension, and text generation. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
 
