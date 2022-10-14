@@ -1,4 +1,4 @@
-# Junwei's Homepage
+# Junwei Bao's Homepage
 
 <img align="left" src="citations.jpg" width=160 height=170 alt="a photo" style="padding-right:10px">
 
