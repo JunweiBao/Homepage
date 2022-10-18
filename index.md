@@ -8,7 +8,7 @@ I am an NLP researcher at [JD AI Research](jdai.md) and an engineer at the Intel
 
 
 ## Links
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=hcRREnsAAAAJ) | [DBLP](https://dblp.org/pid/221/1287-1.html) | [Semantic Scholar](https://www.semanticscholar.org/author/Junwei-Bao/3299718?sort=total-citations) | [ACL Anthology](https://aclanthology.org/people/junwei-bao) | [LinkedIn](https://www.linkedin.cn/incareer/in/junwei-bao-b2883386)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=hcRREnsAAAAJ) | [DBLP](https://dblp.uni-trier.de/pid/221/1287-1.html) | [Semantic Scholar](https://www.semanticscholar.org/author/Junwei-Bao/3299718?sort=total-citations) | [ACL Anthology](https://aclanthology.org/people/junwei-bao) | [LinkedIn](https://www.linkedin.cn/incareer/in/junwei-bao-b2883386)
 
 ## Education
 
