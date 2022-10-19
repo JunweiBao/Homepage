@@ -99,9 +99,9 @@ I have some intern positions available at JD AI Research NLP group, JD.com. If y
 My pleasure and great honor to work with these smart students.
 
 #### Current Interns/Students
-- Yingyao Wang (Ph.D. candidate at HIT, 08/2017 - )
-- Yongwei Zhou (Ph.D. candidate at HIT, 08/2018 - )
-- Guanyi Liu (Ph.D candidate at CUHK-Shenzhen, 08/2018 - )
+- [Yingyao Wang](https://scholar.google.com.tw/citations?user=vUExRS0AAAAJ&hl=en) (Ph.D. candidate at HIT, 08/2017 - )
+- [Yongwei Zhou](https://scholar.google.com/citations?hl=en&user=9uGWNycAAAAJ) (Ph.D. candidate at HIT, 08/2018 - )
+- [Guangyi Liu](https://scholar.google.com/citations?hl=en&user=CrKPqTMAAAAJ) (Ph.D candidate at CUHK-Shenzhen, 08/2018 - )
 - Haoning Zhang (Ph.D. candidate at CUHK-Shenzhen, 01/2019 - )
 - Yu Lu (Ph.D. candidate at CUHK-Shenzhen, 01/2019 - )
 
