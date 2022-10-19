@@ -106,10 +106,14 @@ My pleasure and great honor to work with these smart students.
 - Yu Lu (Ph.D. candidate at CUHK-Shenzhen, 01/2019 - )
 
 #### Past Interns/Students
-- Jing Zhao (M.S. at Civil Aviation University, 1 ACL + 2 EMNLP Findings + 3 NAACL)
+- [Jing Zhao](https://scholar.google.com/citations?user=wL5kCT8AAAAJ&hl=en) (M.S. at Civil Aviation University, 1 ACL + 2 EMNLP Findings + 3 NAACL)
 - Shichang Ouyang (M.S. at Nothest University, 2 IJCAI)
 - Yatong Sun (M.S. at Nothest University)
 
-### Colleagues 
-- Xiaodong He, Youzheng Wu, Ming Zhou, Tiejun Zhao, Nan Duan, Shuguang Cui, Yeyun Gong, Zhao Yan, Haipeng Sun, Chaoqun Duan, Huaishao Luo, Guanlin Li.
+### Co-Authors 
+- [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en), [Youzheng Wu](https://sites.google.com/site/erzhengcn/), [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en), [Nan Duan](https://nanduan.github.io/), [Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun), [Bowen Zhou](https://scholar.google.com/citations?user=h3Nsz6YAAAAJ&hl=en), [Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en), [Duyu Tang](https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=en), Yeyun Gong, and [Zhao Yan](https://scholar.google.com/citations?user=Z_IPFVYAAAAJ&hl=en).
+
+### Colleagues
+[Haipeng Sun](https://scholar.google.com/citations?user=PxC3X3QAAAAJ&hl=en), Chaoqun Duan, [Huaishao Luo](https://scholar.google.com/citations?hl=en&user=ni7XNWMAAAAJ), [Guanlin Li](https://scholar.google.com/citations?hl=en&user=26tXyq0AAAAJ), and [Jing Zhao](https://scholar.google.com/citations?user=wL5kCT8AAAAJ&hl=en)
+
 
