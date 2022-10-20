@@ -14,7 +14,7 @@
 - Fine- and Coarse-Granularity Hybrid Self-Attention for Efficient BERT. Jing Zhao, Yifan Wang, Junwei Bao*, Youzheng Wu, Xiaodong He. ACL 2022. *Corresponding Author.
 - A Roadmap for Big model. Chapter15: Application in Text Generation. Haoran Li*, Junwei Bao*, Yingwei Pan*, Xiaodong He. CoRR 2022. *Equal Contribution.
 
-## 2019-2021
+## 2020-2021
 - RevCore: Review-Augmented Conversational Recommendation. Yu Lu, Junwei Bao*, et al.  ACL 2021(Findings). *Corresponding Author.
 - RoR: Read-over-Read for Long Document Machine Reading Comprehension. Jing Zhao, Junwei Bao*, et al. EMNLP 2021(Findings). *Corresponding Author.
 - SGG: Learning to Select, Guide, and Generate for Keyphrase Generation. Jing Zhao, Junwei Bao*,  Youzheng Wu, Xiaodong He, Bowen Zhou. NAACL 2021. *Corresponding Author.
@@ -23,10 +23,13 @@
 - CUGE: A Chinese Language Understanding and Generation Evaluation Benchmark. Yuan Yao,...,Junwei Bao, et al., CoRR 2021. 
 - 技术重构社会供应链：未来科技趋势白皮书. 鲍军威 等. 京东技术JDD 2021.
 - Learning to Decouple Relations: Few-Shot Relation Classification with EGA and CAT. Yingyao Wang, Junwei Bao*, et al. COLING 2020. *Mentor.
+
+
+## Before 2020
 - Text Generation from Tables. Junwei Bao, Duyu Tang, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao. TASLP 2019.
 - Weakly Supervised Multi-task Learning for Semantic Parsing. Bo Shao, Yeyun Gong, Junwei Bao, Jianshu Ji, Guihong Cao, Xiaola Lin, Nan Duan. IJCAI 2019. 
-
-## Before 2019
+- 基于序列到序列模型的文本到信息框生成的研究. 鲍军威，周明，赵铁军.  智能计算机与应用 2019.
+- 基于知识的自动问答与问题生成的研究. 鲍军威. 导师：周明. 哈尔滨工业大学. 博士学位论文 2018.
 - Question Generation with Doubly-Adversarial Nets. Junwei Bao, Yeyun Gong, Nan Duan, Ming Zhou, Tiejun Zhao. TASLP 2018. 
 - Table2Text: Describing Table Region with Natural Language. Junwei Bao, Duyu Tang, Nan Duan, Zhao Yan, Yuanhua Lv, Ming Zhou, Tiejun Zhao. AAAI 2018. 
 - Response selection from unstructured documents for human-computer conversation systems. Zhao Yan, Nan Duan, Junwei Bao, Peng Chen, Ming Zhou, Zhoujun Li, Jianshe Zhou. KBS 2018. 
@@ -37,7 +40,5 @@
 - Answering Questions with Complex Semantic Constraints on Open Knowledge Bases. Pengcheng Yin, Nan Duan, Ben Kao, Junwei Bao, Ming Zhou. CIKM 2015. 
 - Knowledge-Based Question Answering as Machine Translation. Junwei Bao, Nan Duan, Ming Zhou, Tiejun Zhao. ACL 2014. 
 - Query Rewriting Using Statistical Machine Translation. Junwei Bao, De Quan Zheng, Bing Xu, Tiejun Zhao. ICMLC 2013.
-- 基于序列到序列模型的文本到信息框生成的研究. 鲍军威，周明，赵铁军.  智能计算机与应用 2019.
-- 基于知识的自动问答与问题生成的研究. 鲍军威. 导师：周明. 哈尔滨工业大学. 博士学位论文 2018.
 - 基于知识的自动问答研究. 鲍军威. 导师：赵铁军. 哈尔滨工业大学. 硕士学位论文 2014.
 
