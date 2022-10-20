@@ -1,6 +1,6 @@
 # Publications
 
-## 2022
+## 2022 (Works at JD AI Research)
 - Mars: Semantic-aware Contrastive Learning for End-to-End Task-Oriented Dialog. Haipeng Sun, Junwei Bao*, et al. Arxiv 2022. 
 - P3LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training. Junwei Bao*, et al. EMNLP 2022(Findings). 
 - UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation. Yongwei Zhou, Junwei Bao*, et al. EMNLP 2022. *Mentor.
@@ -14,7 +14,7 @@
 - Fine- and Coarse-Granularity Hybrid Self-Attention for Efficient BERT. Jing Zhao, Yifan Wang, Junwei Bao*, Youzheng Wu, Xiaodong He. ACL 2022. *Corresponding Author.
 - A Roadmap for Big model. Chapter15: Application in Text Generation. Haoran Li*, Junwei Bao*, Yingwei Pan*, Xiaodong He. CoRR 2022. *Equal Contribution.
 
-## 2020-2021
+## 2020-2021 (Works at JD AI Research)
 - RevCore: Review-Augmented Conversational Recommendation. Yu Lu, Junwei Bao*, et al.  ACL 2021(Findings). *Corresponding Author.
 - RoR: Read-over-Read for Long Document Machine Reading Comprehension. Jing Zhao, Junwei Bao*, et al. EMNLP 2021(Findings). *Corresponding Author.
 - SGG: Learning to Select, Guide, and Generate for Keyphrase Generation. Jing Zhao, Junwei Bao*,  Youzheng Wu, Xiaodong He, Bowen Zhou. NAACL 2021. *Corresponding Author.
@@ -25,7 +25,7 @@
 - Learning to Decouple Relations: Few-Shot Relation Classification with EGA and CAT. Yingyao Wang, Junwei Bao*, et al. COLING 2020. *Mentor.
 
 
-## Before 2020 (Works Under Ph.D. Period)
+## Before 2020 (Works with Undergraduate/M.S./Ph.D. Periods)
 - Text Generation from Tables. Junwei Bao, Duyu Tang, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao. TASLP 2019.
 - Weakly Supervised Multi-task Learning for Semantic Parsing. Bo Shao, Yeyun Gong, Junwei Bao, Jianshu Ji, Guihong Cao, Xiaola Lin, Nan Duan. IJCAI 2019. 
 - 基于序列到序列模型的文本到信息框生成的研究. 鲍军威，周明，赵铁军.  智能计算机与应用 2019.
