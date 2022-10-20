@@ -38,7 +38,7 @@
 - Constraint-Based Question Answering with Knowledge Graph. Junwei Bao, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao. COLING 2016. 
 - DocChat: An Information Retrieval Approach for Chatbot Engines Using Unstructured Documents. Zhao Yan, Nan Duan, Junwei Bao, Peng Chen, Ming Zhou, Zhoujun Li, Jianshe Zhou. ACL 2016. 
 - Answering Questions with Complex Semantic Constraints on Open Knowledge Bases. Pengcheng Yin, Nan Duan, Ben Kao, Junwei Bao, Ming Zhou. CIKM 2015. 
+- 基于知识的自动问答研究. 鲍军威. 导师：赵铁军. 哈尔滨工业大学. 硕士学位论文 2014.
 - Knowledge-Based Question Answering as Machine Translation. Junwei Bao, Nan Duan, Ming Zhou, Tiejun Zhao. ACL 2014. 
 - Query Rewriting Using Statistical Machine Translation. Junwei Bao, De Quan Zheng, Bing Xu, Tiejun Zhao. ICMLC 2013.
-- 基于知识的自动问答研究. 鲍军威. 导师：赵铁军. 哈尔滨工业大学. 硕士学位论文 2014.
 
