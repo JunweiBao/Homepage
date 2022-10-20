@@ -25,7 +25,7 @@
 - Learning to Decouple Relations: Few-Shot Relation Classification with EGA and CAT. Yingyao Wang, Junwei Bao*, et al. COLING 2020. *Mentor.
 
 
-## Before 2020
+## Before 2020 (Works Under Ph.D. Period)
 - Text Generation from Tables. Junwei Bao, Duyu Tang, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao. TASLP 2019.
 - Weakly Supervised Multi-task Learning for Semantic Parsing. Bo Shao, Yeyun Gong, Junwei Bao, Jianshu Ji, Guihong Cao, Xiaola Lin, Nan Duan. IJCAI 2019. 
 - 基于序列到序列模型的文本到信息框生成的研究. 鲍军威，周明，赵铁军.  智能计算机与应用 2019.
