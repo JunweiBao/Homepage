@@ -1,6 +1,7 @@
 # Publications
 
 ## 2022
+- Mars: Semantic-aware Contrastive Learning for End-to-End Task-Oriented Dialog. Haipeng Sun, Junwei Bao*, et al. Arxiv 2022. 
 - P3LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training. Junwei Bao*, et al. EMNLP 2022(Findings). 
 - UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation. Yongwei Zhou, Junwei Bao*, et al. EMNLP 2022. *Mentor.
 - MuGER2: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering. Yingyao Wang, Junwei Bao*, et al. EMNLP 2022(Findings). *Mentor.
