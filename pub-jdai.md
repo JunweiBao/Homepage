@@ -27,9 +27,9 @@
 
 ## Before 2020 (Works with Undergraduate/M.S./Ph.D. Periods)
 - Weakly Supervised Multi-task Learning for Semantic Parsing. Bo Shao, Yeyun Gong, Junwei Bao, Jianshu Ji, Guihong Cao, Xiaola Lin, Nan Duan. IJCAI 2019. 
-- Text Generation from Tables. Junwei Bao, Duyu Tang, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao. TASLP 2019.
-- 基于序列到序列模型的文本到信息框生成的研究. 鲍军威，周明，赵铁军.  智能计算机与应用 2019.
 - 基于知识的自动问答与问题生成的研究. 鲍军威. 导师：周明. 哈尔滨工业大学. 博士学位论文 2018.
+- 基于序列到序列模型的文本到信息框生成的研究. 鲍军威，周明，赵铁军.  智能计算机与应用 2019.
+- Text Generation from Tables. Junwei Bao, Duyu Tang, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao. TASLP 2019.
 - Question Generation with Doubly-Adversarial Nets. Junwei Bao, Yeyun Gong, Nan Duan, Ming Zhou, Tiejun Zhao. TASLP 2018. 
 - Table2Text: Describing Table Region with Natural Language. Junwei Bao, Duyu Tang, Nan Duan, Zhao Yan, Yuanhua Lv, Ming Zhou, Tiejun Zhao. AAAI 2018. 
 - Response selection from unstructured documents for human-computer conversation systems. Zhao Yan, Nan Duan, Junwei Bao, Peng Chen, Ming Zhou, Zhoujun Li, Jianshe Zhou. KBS 2018. 
