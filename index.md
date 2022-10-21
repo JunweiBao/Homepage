@@ -1,4 +1,4 @@
-# Junwei Bao's Homepage
+# Junwei Bao (鲍军威)
 
 <img align="left" src="citations.jpg" width=170 height=180 alt="a photo" style="padding-right:10px">
 
