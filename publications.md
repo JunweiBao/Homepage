@@ -1,10 +1,11 @@
 # Publications
 
 ## 2022 (Works at JD AI Research)
+- Composable Text Controls in Latent Space with ODEs. Guangyi Liu, Zeyu Feng, Yuan Gao, Zichao Yang, Xiaodan Liang, Junwei Bao, Xiaodong He, Shuguang Cui, Zhen Li, Zhiting Hu. Arxiv 2022.
 - Mars: Semantic-aware Contrastive Learning for End-to-End Task-Oriented Dialog. Haipeng Sun, Junwei Bao*, et al. Arxiv 2022. 
-- P3LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training. Junwei Bao*, et al. EMNLP 2022(Findings). 
+- P<sup>3</sup>LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training. Junwei Bao*, et al. EMNLP 2022(Findings). 
 - UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation. Yongwei Zhou, Junwei Bao*, et al. EMNLP 2022. *Mentor.
-- MuGER2: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering. Yingyao Wang, Junwei Bao*, et al. EMNLP 2022(Findings). *Mentor.
+- MuGER<sup>2</sup>: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering. Yingyao Wang, Junwei Bao*, et al. EMNLP 2022(Findings). *Mentor.
 - CSS: Combining Self-training and Self-supervised Learning for Few-shot Dialogue State Tracking. Haoning Zhang, Junwei Bao*, et al. AACL 2022. *Corresponding Author.
 - AutoQGS: Auto-Prompt for Low-Resource Knowledge-based Question Generation from SPARQL. Guanming Xiong, Junwei Bao*, et al. CIKM 2022. *Corresponding Author.
 - LUNA: Learning Slot-Turn Alignment for Dialogue State Tracking. Jing Zhao, Yifan Wang, Junwei Bao*, Youzheng Wu, Xiaodong He. NAACL 2022. *Corresponding Author.
