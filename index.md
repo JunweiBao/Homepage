@@ -20,7 +20,7 @@ I am from Anshan in Liaoning Provice. I received my Ph.D. degree in Computer Sci
 - 02/2022: Our [OPERA++](https://aclanthology.org/2022.naacl-main.119.pdf) (NAACL 2022) achieves the Top-1 on [DROP](https://leaderboard.allenai.org/drop/submissions/public) leaderboard.
 - 12/2021: Our [MuGER<sup>2</sup>](https://arxiv.org/pdf/2210.10350.pdf) (EMNLP 2022-Findings) achieves the Top-2 on [HybridQA](https://competitions.codalab.org/competitions/24420#results) leaderboard.
 - 05/2021: Our [P<sup>3</sup>LM](https://arxiv.org/pdf/2210.12339.pdf) (EMNLP 2022-Findings) achieves the Top-2 on [GLGE](https://microsoft.github.io/glge/) leaderboard.
-- 01/2021: Our [RoR](EMNLP 2021-Findings)(https://aclanthology.org/2021.findings-emnlp.160.pdf) achieves the Top-1 on [QuAC](https://quac.ai/) leaderboard.
+- 01/2021: Our [RoR](https://aclanthology.org/2021.findings-emnlp.160.pdf) (EMNLP 2021-Findings) achieves the Top-1 on [QuAC](https://quac.ai/) leaderboard.
 
 
 ## Opening Positions
