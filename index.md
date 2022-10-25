@@ -18,7 +18,7 @@ I am from Anshan in Liaoning Provice. I received my Ph.D. degree in Computer Sci
 - 02/2022: Our [UniRPG](https://arxiv.org/pdf/2210.08249.pdf) (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
 - 02/2022: Our [OPERA++](https://aclanthology.org/2022.naacl-main.119.pdf) (NAACL 2022) achieves the Top-1 on [DROP](https://leaderboard.allenai.org/drop/submissions/public) leaderboard.
 - 12/2021: Our [MuGER<sup>2</sup>](https://arxiv.org/pdf/2210.10350.pdf) (EMNLP 2022-Findings) achieves the Top-2 on [HybridQA](https://competitions.codalab.org/competitions/24420#results) leaderboard.
-- 05/2021: Our [P<sup>3</sup>LM]() (EMNLP 2022-Findings) achieves the Top-2 on [GLGE](https://microsoft.github.io/glge/) leaderboard.
+- 05/2021: Our [P<sup>3</sup>LM](https://arxiv.org/pdf/2210.12339.pdf) (EMNLP 2022-Findings) achieves the Top-2 on [GLGE](https://microsoft.github.io/glge/) leaderboard.
 - 01/2021: Our [RoR](https://aclanthology.org/2021.findings-emnlp.160.pdf) achieves the Top-1 on [QuAC](https://quac.ai/) leaderboard.
 
 
@@ -30,7 +30,7 @@ I have some intern positions available at JD AI Research NLP group, JD.com. If y
 
 ## Selected Publications
 #### For full publication list, please check [publication page](publications.md).
-- [[Paper]() | [Code](https://github.com/JD-AI-Research-NLP/P3LM)] **Junwei Bao***, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He: 
+- [[Paper](https://arxiv.org/pdf/2210.12339.pdf) | [Code](https://github.com/JunweiBao/P3LM)] **Junwei Bao***, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He: 
   **P<sup>3</sup>LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training**. EMNLP (Findings) 2022
 
 - [[Paper](https://arxiv.org/pdf/2210.08249.pdf) | [Code](https://github.com/JD-AI-Research-NLP/UniRPG)] Yongwei Zhou, **Junwei Bao***, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao: 
