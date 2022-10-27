@@ -40,7 +40,7 @@ I have some intern positions available at JD AI Research NLP group, JD.com. If y
 - [[Paper](https://arxiv.org/pdf/2210.10350.pdf) | [Code](https://github.com/JD-AI-Research-NLP/MuGER2)] Yingyao Wang, **Junwei Bao***, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao: 
   **MuGER<sup>2</sup>: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering**. EMNLP (Findings) 2022
   
-- [[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557246) ｜ [Code](https://github.com/JD-AI-Research-NLP/AutoQGS)] Guanming Xiong, **Junwei Bao***, Wen Zhao, Youzheng Wu, Xiaodong He: 
+- [[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557246) | [Code](https://github.com/JD-AI-Research-NLP/AutoQGS)] Guanming Xiong, **Junwei Bao***, Wen Zhao, Youzheng Wu, Xiaodong He: 
   **AutoQGS: Auto-Prompt for Low-Resource Knowledge-based Question Generation from SPARQL**. CIKM 2022
   
 - [[Paper](https://aclanthology.org/2022.naacl-main.119.pdf) | [Code](https://github.com/JD-AI-Research-NLP/OPERA)] Yongwei Zhou, **Junwei Bao***, Chaoqun Duan, Haipeng Sun, Jiahui Liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao: 
