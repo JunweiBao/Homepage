@@ -1,4 +1,4 @@
-# Junwei Bao (鲍军威)
+# Junwei Bao (鲍军威)[CV](Junwei.CV.2022.pdf)
 
 <img align="left" src="citations.jpg" width=170 height=180 alt="a photo" style="padding-right:10px">
 
