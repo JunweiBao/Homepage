@@ -2,7 +2,7 @@
 
 <img align="left" src="citations.jpg" width=170 height=180 alt="a photo" style="padding-right:10px">
 
-I am an NLP researcher at [JD AI Research](jdai.md) and an engineer at the Inteligent Service and Product department in [JD Technology (JDT:京东科技)](https://www.jdt.com.cn/). I have published more than 20 papers in top-tier conferences and journals, e.g., ACL, EMNLP, NAACL, COLING and AAAI. Currently, I focus on NLP and conversational AI research including pre-training, dialog, question answering, reasoning, machine reading comprehension, and text generation. You can reach me through NAME at gmail dot com (NAME=baojunwei001) and find my CV [here](Junwei.CV.2022.pdf).
+I am an NLP researcher at [JD AI Research](jdai.md) and an engineer at the Inteligent Service and Product department in [JD Technology (JDT:京东科技)](https://www.jdt.com.cn/). I have published more than 20 papers in top-tier conferences and journals, e.g., ACL, EMNLP, NAACL, COLING and AAAI. Currently, I focus on NLP and conversational AI research including pre-training, dialog, question answering, reasoning, machine reading comprehension, and text generation. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
 
 
 
