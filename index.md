@@ -31,67 +31,67 @@ I have some intern positions available at JD AI Research NLP group, JD.com. If y
 
 ## Selected Publications
 #### For full publication list, please check [publication page](publications.md).
-- [[Paper](https://aclanthology.org/2022.findings-emnlp.496.pdf) | [Code](https://github.com/JunweiBao/P3LM)] **Junwei Bao***, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He: 
+- [[Paper](https://aclanthology.org/2022.findings-emnlp.496.pdf) | [Code](https://github.com/JunweiBao/P3LM)] [[CCF-B | 清华A]] **Junwei Bao***, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He: 
   **P<sup>3</sup>LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training**. EMNLP (Findings) 2022
 
-- [[Paper](https://arxiv.org/pdf/2210.08249.pdf) | [Code](https://github.com/JD-AI-Research-NLP/UniRPG)] Yongwei Zhou, **Junwei Bao***, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao: 
+- [[Paper](https://arxiv.org/pdf/2210.08249.pdf) | [Code](https://github.com/JD-AI-Research-NLP/UniRPG)] [[CCF-B | 清华A]] Yongwei Zhou, **Junwei Bao***, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao: 
   **UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation**. EMNLP 2022
 
-- [[Paper](https://arxiv.org/pdf/2210.10350.pdf) | [Code](https://github.com/JD-AI-Research-NLP/MuGER2)] Yingyao Wang, **Junwei Bao***, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao: 
+- [[Paper](https://arxiv.org/pdf/2210.10350.pdf) | [Code](https://github.com/JD-AI-Research-NLP/MuGER2)] [[CCF-B | 清华A]] Yingyao Wang, **Junwei Bao***, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao: 
   **MuGER<sup>2</sup>: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering**. EMNLP (Findings) 2022
   
-- [[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557246) | [Code](https://github.com/JD-AI-Research-NLP/AutoQGS)] Guanming Xiong, **Junwei Bao***, Wen Zhao, Youzheng Wu, Xiaodong He: 
+- [[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557246) | [Code](https://github.com/JD-AI-Research-NLP/AutoQGS)] [[CCF-B | 清华A]] Guanming Xiong, **Junwei Bao***, Wen Zhao, Youzheng Wu, Xiaodong He: 
   **AutoQGS: Auto-Prompt for Low-Resource Knowledge-based Question Generation from SPARQL**. CIKM 2022
   
-- [[Paper](https://aclanthology.org/2022.naacl-main.119.pdf) | [Code](https://github.com/JD-AI-Research-NLP/OPERA)] Yongwei Zhou, **Junwei Bao***, Chaoqun Duan, Haipeng Sun, Jiahui Liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao: 
+- [[Paper](https://aclanthology.org/2022.naacl-main.119.pdf) | [Code](https://github.com/JD-AI-Research-NLP/OPERA)] [[CCF-B | 清华A]] Yongwei Zhou, **Junwei Bao***, Chaoqun Duan, Haipeng Sun, Jiahui Liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao: 
   **OPERA: Operation-Pivoted Discrete Reasoning over Text**. NAACL 2022
 
-- [[Paper](https://aclanthology.org/2022.findings-naacl.166.pdf) | [Code](https://github.com/JD-AI-Research-NLP/BORT)] Haipeng Sun, **Junwei Bao***, Youzheng Wu, Xiaodong He: 
+- [[Paper](https://aclanthology.org/2022.findings-naacl.166.pdf) | [Code](https://github.com/JD-AI-Research-NLP/BORT)] [[CCF-B | 清华A]] Haipeng Sun, **Junwei Bao***, Youzheng Wu, Xiaodong He: 
   **BORT: Back and Denoising Reconstruction for End-to-End Task-Oriented Dialog**. NAACL (Findings) 2022
 
-- [[Paper](https://aclanthology.org/2022.naacl-main.242.pdf) | [Code](https://github.com/JD-AI-Research-NLP/LUNA)] Yifan Wang, Jing Zhao, **Junwei Bao***, Chaoqun Duan, Youzheng Wu, Xiaodong He: 
+- [[Paper](https://aclanthology.org/2022.naacl-main.242.pdf) | [Code](https://github.com/JD-AI-Research-NLP/LUNA)] [[CCF-B | 清华A]] Yifan Wang, Jing Zhao, **Junwei Bao***, Chaoqun Duan, Youzheng Wu, Xiaodong He: 
   **LUNA: Learning Slot-Turn Alignment for Dialogue State Tracking**. NAACL 2022
 
-- [[Paper](https://aclanthology.org/2022.naacl-main.150.pdf) | [Code](https://github.com/JD-AI-Research-NLP/EISL)] Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, **Junwei Bao**, Xiaodong He, Shuguang Cui, Zhiting Hu: 
+- [[Paper](https://aclanthology.org/2022.naacl-main.150.pdf) | [Code](https://github.com/JD-AI-Research-NLP/EISL)] [[CCF-B | 清华A]] Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, **Junwei Bao**, Xiaodong He, Shuguang Cui, Zhiting Hu: 
   **Don't Take It Literally: An Edit-Invariant Sequence Loss for Text Generation**. NAACL 2022
 
-- [[Paper](https://aclanthology.org/2022.acl-long.330.pdf) | [Code](https://github.com/JD-AI-Research-NLP/FCA-BERT)] Jing Zhao, Yifan Wang, **Junwei Bao***, Youzheng Wu, Xiaodong He: 
+- [[Paper](https://aclanthology.org/2022.acl-long.330.pdf) | [Code](https://github.com/JD-AI-Research-NLP/FCA-BERT)] [[CCF-B | 清华A]] Jing Zhao, Yifan Wang, **Junwei Bao***, Youzheng Wu, Xiaodong He: 
   **Fine- and Coarse-Granularity Hybrid Self-Attention for Efficient BERT**. ACL 2022
 
-- [[Paper](https://aclanthology.org/2021.findings-acl.99.pdf) | [Code](https://github.com/JD-AI-Research-NLP/RevCore)] Yu Lu, **Junwei Bao***, Yan Song, Zichen Ma, Shuguang Cui, Youzheng Wu, Xiaodong He: 
+- [[Paper](https://aclanthology.org/2021.findings-acl.99.pdf) | [Code](https://github.com/JD-AI-Research-NLP/RevCore)] [[CCF-B | 清华A]] Yu Lu, **Junwei Bao***, Yan Song, Zichen Ma, Shuguang Cui, Youzheng Wu, Xiaodong He: 
   **RevCore: Review-Augmented Conversational Recommendation**. ACL (Findings) 2021
 
-- [[Paper](https://aclanthology.org/2021.findings-emnlp.160.pdf) | [Code](https://github.com/JD-AI-Research-NLP/RoR)] Jing Zhao, **Junwei Bao***, Yifan Wang, Yongwei Zhou, Youzheng Wu, Xiaodong He, Bowen Zhou: 
+- [[Paper](https://aclanthology.org/2021.findings-emnlp.160.pdf) | [Code](https://github.com/JD-AI-Research-NLP/RoR)] [[CCF-B | 清华A]] Jing Zhao, **Junwei Bao***, Yifan Wang, Yongwei Zhou, Youzheng Wu, Xiaodong He, Bowen Zhou: 
   **RoR: Read-over-Read for Long Document Machine Reading Comprehension**. EMNLP (Findings) 2021
 
-- [[Paper](https://aclanthology.org/2021.naacl-main.455.pdf) | [Code](https://github.com/JD-AI-Research-NLP/SGG)] Jing Zhao, **Junwei Bao***, Yifan Wang, Youzheng Wu, Xiaodong He, Bowen Zhou: 
+- [[Paper](https://aclanthology.org/2021.naacl-main.455.pdf) | [Code](https://github.com/JD-AI-Research-NLP/SGG)] [[CCF-B | 清华A]] Jing Zhao, **Junwei Bao***, Yifan Wang, Youzheng Wu, Xiaodong He, Bowen Zhou: 
   **SGG: Learning to Select, Guide, and Generate for Keyphrase Generation**. NAACL 2021
 
-- [[Paper](https://aclanthology.org/2020.coling-main.510.pdf) | [Code](https://github.com/JD-AI-Research-NLP/CTEG)] Yingyao Wang, **Junwei Bao***, Guangyi Liu, Youzheng Wu, Xiaodong He, Bowen Zhou, Tiejun Zhao: 
+- [[Paper](https://aclanthology.org/2020.coling-main.510.pdf) | [Code](https://github.com/JD-AI-Research-NLP/CTEG)] [[CCF-B | 清华A]] Yingyao Wang, **Junwei Bao***, Guangyi Liu, Youzheng Wu, Xiaodong He, Bowen Zhou, Tiejun Zhao: 
   **Learning to Decouple Relations: Few-Shot Relation Classification with Entity-Guided Attention and Confusion-Aware Training**. COLING 2020
 
-- [[Paper](https://www.ijcai.org/proceedings/2019/0468.pdf) | [Dataset](https://github.com/JunweiBao/MSParS)] Bo Shao, Yeyun Gong, **Junwei Bao**, Jianshu Ji, Guihong Cao, Xiaola Lin, Nan Duan: 
+- [[Paper](https://www.ijcai.org/proceedings/2019/0468.pdf) | [Dataset](https://github.com/JunweiBao/MSParS)] [[CCF-B | 清华A]] Bo Shao, Yeyun Gong, **Junwei Bao**, Jianshu Ji, Guihong Cao, Xiaola Lin, Nan Duan: 
   **Weakly Supervised Multi-task Learning for Semantic Parsing**. IJCAI 2019
 
-- [[Paper](https://ieeexplore.ieee.org/document/8510869)] **Junwei Bao***, Duyu Tang, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao: 
+- [[Paper](https://ieeexplore.ieee.org/document/8510869)] [[CCF-B | 清华A]] **Junwei Bao***, Duyu Tang, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao: 
   **Text Generation From Tables**. IEEE/ACM TASLP 2019
 
-- [[Paper](https://ieeexplore.ieee.org/document/8419315)] **Junwei Bao***, Yeyun Gong, Nan Duan, Ming Zhou, Tiejun Zhao: 
+- [[Paper](https://ieeexplore.ieee.org/document/8419315)] [[CCF-B | 清华A]] **Junwei Bao***, Yeyun Gong, Nan Duan, Ming Zhou, Tiejun Zhao: 
   **Question Generation With Doubly Adversarial Nets**. IEEE/ACM TASLP 2018
 
-- [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11944/11803) | [Dataset](https://github.com/JunweiBao/Table2Text)] **Junwei Bao***, Duyu Tang, Nan Duan, Zhao Yan, Yuanhua Lv, Ming Zhou, Tiejun Zhao: 
+- [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11944/11803) | [Dataset](https://github.com/JunweiBao/Table2Text)] [[CCF-B | 清华A]] **Junwei Bao***, Duyu Tang, Nan Duan, Zhao Yan, Yuanhua Lv, Ming Zhou, Tiejun Zhao: 
   **Table-to-Text: Describing Table Region With Natural Language**. AAAI 2018
 
-- [[Paper](https://aclanthology.org/C16-1236.pdf) | [Dataset](https://github.com/JunweiBao/MulCQA)] **Junwei Bao***, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao: 
+- [[Paper](https://aclanthology.org/C16-1236.pdf) | [Dataset](https://github.com/JunweiBao/MulCQA)] [[CCF-B | 清华A]] **Junwei Bao***, Nan Duan, Zhao Yan, Ming Zhou, Tiejun Zhao: 
   **Constraint-Based Question Answering with Knowledge Graph**. COLING 2016
 
-- [[Paper](https://aclanthology.org/P16-1049.pdf)] Zhao Yan, Nan Duan, **Junwei Bao**, Peng Chen, Ming Zhou, Zhoujun Li, Jianshe Zhou: 
+- [[Paper](https://aclanthology.org/P16-1049.pdf)] [[CCF-B | 清华A]] Zhao Yan, Nan Duan, **Junwei Bao**, Peng Chen, Ming Zhou, Zhoujun Li, Jianshe Zhou: 
   **DocChat: An Information Retrieval Approach for Chatbot Engines Using Unstructured Documents**. ACL 2016
 
-- [[Paper](https://dl.acm.org/doi/10.1145/2806416.2806542)] Pengcheng Yin, Nan Duan, Ben Kao, **Junwei Bao**, Ming Zhou: 
+- [[Paper](https://dl.acm.org/doi/10.1145/2806416.2806542)] [[CCF-B | 清华A]] Pengcheng Yin, Nan Duan, Ben Kao, **Junwei Bao**, Ming Zhou: 
   **Answering Questions with Complex Semantic Constraints on Open Knowledge Bases**. CIKM 2015
 
-- [[Paper](https://aclanthology.org/P14-1091.pdf)] **Junwei Bao***, Nan Duan, Ming Zhou, Tiejun Zhao: 
+- [[Paper](https://aclanthology.org/P14-1091.pdf)] [[CCF-B | 清华A]] **Junwei Bao***, Nan Duan, Ming Zhou, Tiejun Zhao: 
   **Knowledge-Based Question Answering as Machine Translation**. ACL 2014
 
 ## Collaborators
