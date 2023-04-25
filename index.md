@@ -31,6 +31,9 @@ I have some intern positions available at JD AI Research NLP group, JD.com. If y
 
 ## Selected Publications
 #### For full publication list, please check [publication page](publications.md).
+- [[Paper](https://arxiv.org/pdf/2211.14813.pdf)] [CCF-A | 清华A] Huaishao Luo, **Junwei Bao***, Youzheng Wu, Xiaodong He, Tianrui Li: 
+  **SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation**. ICML 2023
+  
 - [[Paper](https://aclanthology.org/2022.findings-emnlp.496.pdf) | [Code](https://github.com/JunweiBao/P3LM)] [CCF-B | 清华A] **Junwei Bao***, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He: 
   **P<sup>3</sup>LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training**. EMNLP (Findings) 2022
 
