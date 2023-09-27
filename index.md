@@ -2,7 +2,7 @@
 
 <img align="left" src="citations.jpg" width=170 height=180 alt="a photo" style="padding-right:10px">
 
-I am an NLP researcher at [JD AI Research](jdai.md) and an engineer at the Inteligent Service and Product department in [JD Technology (JDT:京东科技)](https://www.jdt.com.cn/). I have published more than 20 papers in top-tier conferences and journals, e.g., ACL, EMNLP, NAACL, COLING and AAAI. Currently, I focus on NLP and conversational AI research including pre-training, dialog, question answering, reasoning, machine reading comprehension, and text generation. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
+I am an NLP researcher at [JD AI Research](jdai.md) and an engineer at the Inteligent Service and Product department in [JD Technology (JDT:京东科技)](https://www.jdt.com.cn/). I have published more than 30 papers in top-tier conferences and journals, e.g., ACL, EMNLP, NAACL, COLING and AAAI. Currently, I focus on NLP and conversational AI research including pre-training, dialog, question answering, reasoning, machine reading comprehension, and text generation. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
 
 
 
@@ -12,7 +12,7 @@ I am an NLP researcher at [JD AI Research](jdai.md) and an engineer at the Intel
 
 ## Education
 
-I am from Anshan in Liaoning Provice. I received my Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology ([HIT:哈尔滨工业大学](http://www.hit.edu.cn/)) at January 03, 2019, after 6 years of NLP research in [MSRA](https://www.msra.cn/). I earned my Ph.D. degree under the instructions of Prof. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and [Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun), and montored by [Nan Duan](https://nanduan.github.io/). After that, I was a researcher at JD AI Research at JD.com, Beijing, working with Prof. [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en) and [Youzheng Wu](https://sites.google.com/site/erzhengcn/). 
+I am from Anshan in Liaoning Province. I received my Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology ([HIT:哈尔滨工业大学](http://www.hit.edu.cn/)) at January 03, 2019, after 6 years of NLP research in [MSRA](https://www.msra.cn/). I earned my Ph.D. degree under the instructions of Prof. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and [Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun) and mentored by [Nan Duan](https://nanduan.github.io/). After that, I was a researcher at JD AI Research at JD.com, Beijing, working with Prof. [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en) and [Youzheng Wu](https://sites.google.com/site/erzhengcn/). 
 
 ## News
 - 04/2023: Our [SegCLIP](https://arxiv.org/pdf/2211.14813.pdf) was accepted by ICML 2023.
@@ -32,8 +32,20 @@ I have some intern positions available at JD AI Research NLP group, JD.com. If y
 
 ## Selected Publications
 #### For full publication list, please check [publication page](publications.md).
-- [[Paper](https://arxiv.org/pdf/2211.14813.pdf)] [CCF-A | 清华A] Huaishao Luo, **Junwei Bao***, Youzheng Wu, Xiaodong He, Tianrui Li: 
+- [[Paper](https://ieeexplore.ieee.org/abstract/document/10254290)] [CCF-B | 清华A] Yongwei Zhou, **Junwei Bao**, Youzheng Wu, Xiaodong He, Tiejun Zhao: 
+  **Operation-Augmented Numerical Reasoning for Question Answering**. IEEE/ACM TASLP 2023
+  
+- [[Paper](http://proceedings.mlr.press/v202/luo23a/luo23a.pdf)] [CCF-A | 清华A] Huaishao Luo, **Junwei Bao***, Youzheng Wu, Xiaodong He, Tianrui Li: 
   **SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation**. ICML 2023
+
+- [[Paper](https://aclanthology.org/2023.findings-acl.33/)] [CCF-A | 清华A] 	Haoning Zhang, **Junwei Bao**, Haipeng Sun, Youzheng Wu, Wenye Li, Shuguang Cui, Xiaodong He: 
+  **MoNET: Tackle State Momentum via Noise-Enhanced Training for Dialogue State Tracking**. ACL(Findings) 2023
+
+- [[Paper](https://aclanthology.org/2023.findings-acl.670/)] [CCF-A | 清华A] 	Yu Lu, **Junwei Bao**, Zichen Ma, Xiaoguang Han, Youzheng Wu, Shuguang Cui, Xiaodong He: 
+  **AUGUST: an Automatic Generation Understudy for Synthesizing Conversational Recommendation Datasets**. ACL(Findings) 2023
+
+- [[Paper](https://aclanthology.org/2023.findings-acl.708/)] [CCF-A | 清华A] Haipeng Sun, **Junwei Bao**, Youzheng Wu, Xiaodong He: 
+  **Mars: Modeling Context & State Representations with Contrastive Learning for End-to-End Task-Oriented Dialog**. ACL(Findings) 2023
   
 - [[Paper](https://aclanthology.org/2022.findings-emnlp.496.pdf) | [Code](https://github.com/JunweiBao/P3LM)] [CCF-B | 清华A] **Junwei Bao***, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He: 
   **P<sup>3</sup>LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training**. EMNLP (Findings) 2022
