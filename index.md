@@ -2,6 +2,7 @@
 
 <img align="left" src="citations.jpg" width=170 height=180 alt="a photo" style="padding-right:10px">
 
+I am the leader of LLM training team at [zuoyebang.com](zuoyebang.com), focusing on ai-writing and ai-correcting related tasks which serve more than 10M users through apps including '作业帮', '光速写作' and '快对作业'. My team trains 1.5B, 8B, 12B, 13B, 70B, and 405B models using Pretraining, SFT, Preference Optimization, and Reject Sampling techniques. 
 Previously, I was an NLP researcher at [JD AI Research](jdai.md) and an engineer at the Intelligent Service and Product department in [JD Technology (JDT:京东科技)](https://www.jdt.com.cn/). I have published more than 30 papers in top-tier conferences and journals, e.g., ACL, EMNLP, NAACL, COLING and AAAI. Currently, I focus on NLP and conversational AI research including pre-training, dialog, question answering, reasoning, machine reading comprehension, and text generation. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
 
 
@@ -15,6 +16,7 @@ Previously, I was an NLP researcher at [JD AI Research](jdai.md) and an engineer
 I am from Anshan in Liaoning Province. I received my Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology ([HIT:哈尔滨工业大学](http://www.hit.edu.cn/)) at January 03, 2019, after 6 years of NLP research in [MSRA](https://www.msra.cn/). I earned my Ph.D. degree under the instructions of Prof. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and [Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun) and mentored by [Nan Duan](https://nanduan.github.io/). After that, I was a researcher at JD AI Research at JD.com, Beijing, working with Prof. [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en) and [Youzheng Wu](https://sites.google.com/site/erzhengcn/). 
 
 ## News
+- 05/2024: Our [Interactive-KBQA]([https://arxiv.org/pdf/2211.14813.pdf](https://aclanthology.org/2024.acl-long.569.pdf)) was accepted by ACL 2024.
 - 04/2023: Our [SegCLIP](https://arxiv.org/pdf/2211.14813.pdf) was accepted by ICML 2023.
 - 10/2022: Our [Mars](https://arxiv.org/pdf/2210.08917.pdf) achieves the SOTA results (combined score 103.4) on [MultiWoz](https://github.com/budzianowski/multiwoz/pull/114/commits/5bac742352fc14ad2dda381174fe4338d73d6cdc) leaderboard.
 - 02/2022: Our [UniRPG](https://arxiv.org/pdf/2210.08249.pdf) (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
@@ -25,13 +27,16 @@ I am from Anshan in Liaoning Province. I received my Ph.D. degree in Computer Sc
 
 
 ## Opening Positions
-I have some intern positions available at JD AI Research NLP group, JD.com. If you have any interests, welcome to drop me an email. 
+I have some intern positions available at zuoyebang.com. If you have any interests, welcome to drop me an email. 
 
 ## Professional Activities
 - Area Chair (or SPC): IJCAI 2021. 
 
 ## Selected Publications
 #### For full publication list, please check [publication page](publications.md).
+- [[Paper](https://ieeexplore.ieee.org/abstract/document/10254290)] [CCF-A | 清华A] Guanming Xiong, **Junwei Bao**, Wen Zhao: 
+  **Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with Large Language Models**. ACL 2024
+  
 - [[Paper](https://ieeexplore.ieee.org/abstract/document/10254290)] [CCF-B | 清华A] Yongwei Zhou, **Junwei Bao**, Youzheng Wu, Xiaodong He, Tiejun Zhao: 
   **Operation-Augmented Numerical Reasoning for Question Answering**. IEEE/ACM TASLP 2023
   
@@ -116,13 +121,14 @@ I have some intern positions available at JD AI Research NLP group, JD.com. If y
 My pleasure and great honor to work with these smart students.
 
 #### Current Interns/Students
-- [Yingyao Wang](https://scholar.google.com.tw/citations?user=vUExRS0AAAAJ&hl=en) (Ph.D. candidate at HIT, 08/2017 - )
-- [Yongwei Zhou](https://scholar.google.com/citations?hl=en&user=9uGWNycAAAAJ) (Ph.D. candidate at HIT, 08/2018 - )
-- [Guangyi Liu](https://scholar.google.com/citations?hl=en&user=CrKPqTMAAAAJ) (Ph.D candidate at CUHK-Shenzhen, 08/2018 - )
-- Haoning Zhang (Ph.D. candidate at CUHK-Shenzhen, 01/2019 - )
-- Yu Lu (Ph.D. candidate at CUHK-Shenzhen, 01/2019 - )
+
 
 #### Past Interns/Students
+- [Yingyao Wang](https://scholar.google.com.tw/citations?user=vUExRS0AAAAJ&hl=en) (Ph.D. candidate at HIT, 08/2017 - 2023)
+- [Yongwei Zhou](https://scholar.google.com/citations?hl=en&user=9uGWNycAAAAJ) (Ph.D. candidate at HIT, 08/2018 - 2023)
+- [Guangyi Liu](https://scholar.google.com/citations?hl=en&user=CrKPqTMAAAAJ) (Ph.D candidate at CUHK-Shenzhen, 08/2018 - 2023)
+- Haoning Zhang (Ph.D. candidate at CUHK-Shenzhen, 01/2019 - 2023)
+- Yu Lu (Ph.D. candidate at CUHK-Shenzhen, 01/2019 - 2023)
 - [Jing Zhao](https://scholar.google.com/citations?user=wL5kCT8AAAAJ&hl=en) (M.S. at Civil Aviation University, 1 ACL + 2 EMNLP Findings + 3 NAACL)
 - Shichang Ouyang (M.S. at Nothest University, 2 IJCAI)
 - Yatong Sun (M.S. at Nothest University)
