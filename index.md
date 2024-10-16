@@ -2,8 +2,8 @@
 
 <img align="left" src="citations.jpg" width=170 height=180 alt="a photo" style="padding-right:10px">
 
-I am the leader of LLM training team at [zuoyebang.com](zuoyebang.com), focusing on ai-writing and ai-correcting related tasks which serve more than 10M users through apps including '作业帮', '光速写作' and '快对作业'. My team trains 1.5B, 8B, 12B, 13B, 70B, and 405B models using Pretraining, SFT, Preference Optimization, and Reject Sampling techniques. 
-Previously, I was an NLP researcher at [JD AI Research](jdai.md) and an engineer at the Intelligent Service and Product department in [JD Technology (JDT:京东科技)](https://www.jdt.com.cn/). I have published more than 30 papers in top-tier conferences and journals, e.g., ACL, EMNLP, NAACL, COLING and AAAI. Currently, I focus on NLP and conversational AI research including pre-training, dialog, question answering, reasoning, machine reading comprehension, and text generation. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
+I am the leader of LLM training team at [zuoyebang.com](https://zuoyebang.com/), focusing on ai-writing and ai-correcting related tasks which serve more than 10M users through apps including '作业帮', '光速写作' and '快对作业'. My team trains 1.5B, 8B, 12B, 13B, 70B, and 405B models using Pretraining, SFT, Preference Optimization, and Reject Sampling techniques. 
+Previously, I was an NLP researcher at [JD AI Research](jdai.md) and an engineer at the Intelligent Service and Product department in [JD Technology (JDT:京东科技)](https://www.jdt.com.cn/). I have published more than **40** papers in top-tier conferences and journals, e.g., ICML, ACL, AAAI, EMNLP, and NAACL. My research topics include LLM, writing, dialog, question answering, reasoning, and machine reading comprehension. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
 
 
 
