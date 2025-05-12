@@ -2,7 +2,7 @@
 
 <img align="left" src="citations.jpg" width=170 height=180 alt="a photo" style="padding-right:10px">
 
-I am the leader of LLM training team at [zuoyebang.com](https://zuoyebang.com/), focusing on ai-writing and ai-correcting related tasks which serve more than 10M users through apps including '作业帮', '光速写作' and '快对作业'. My team trains 1.5B, 8B, 12B, 13B, 70B, and 405B models using Pretraining, SFT, Preference Optimization, and Reject Sampling techniques. 
+I am the leader of LLM training team at [zuoyebang.com](https://zuoyebang.com/), focusing on ai-writing and ai-correcting related tasks which serve more than 10M users through apps including '作业帮', '光速写作', '快对AI' and '大学搜题酱'. My team trains 1.5B, 8B, 12B, 13B, 70B, 405B, 670B models using Pretraining, SFT, Preference Optimization, RL and Reject Sampling techniques. 
 Previously, I was an NLP researcher at [JD AI Research](jdai.md) and an engineer at the Intelligent Service and Product department in [JD Technology (JDT:京东科技)](https://www.jdt.com.cn/). I have published more than **40** papers in top-tier conferences and journals, e.g., ICML, ACL, AAAI, EMNLP, and NAACL. My research topics include LLM, writing, dialog, question answering, reasoning, and machine reading comprehension. You can reach me through NAME at gmail dot com (NAME=baojunwei001).
 
 
@@ -16,8 +16,10 @@ Previously, I was an NLP researcher at [JD AI Research](jdai.md) and an engineer
 I am from Anshan in Liaoning Province. I received my Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology ([HIT:哈尔滨工业大学](http://www.hit.edu.cn/)) at January 03, 2019, after 6 years of NLP research in [MSRA](https://www.msra.cn/). I earned my Ph.D. degree under the instructions of Prof. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and [Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun) and mentored by [Nan Duan](https://nanduan.github.io/). After that, I was a researcher at JD AI Research at JD.com, Beijing, working with Prof. [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en) and [Youzheng Wu](https://sites.google.com/site/erzhengcn/). 
 
 ## News
-- 05/2024: Our [Interactive-KBQA]([https://arxiv.org/pdf/2211.14813.pdf](https://aclanthology.org/2024.acl-long.569.pdf)) was accepted by ACL 2024.
-- 04/2023: Our [SegCLIP](https://arxiv.org/pdf/2211.14813.pdf) was accepted by ICML 2023.
+- 04/2025: Our [xDPO](https://arxiv.org/pdf/2412.13862) was accepted by ICML-2025.
+- 12/2024: Our [PoFT](https://ojs.aaai.org/index.php/AAAI/article/view/34558) was accepted by AAAI-2025.
+- 05/2024: Our [Interactive-KBQA](https://aclanthology.org/2024.acl-long.569.pdf) was accepted by ACL-2024.
+- 04/2023: Our [SegCLIP](https://arxiv.org/pdf/2211.14813.pdf) was accepted by ICML-2023.
 - 10/2022: Our [Mars](https://arxiv.org/pdf/2210.08917.pdf) achieves the SOTA results (combined score 103.4) on [MultiWoz](https://github.com/budzianowski/multiwoz/pull/114/commits/5bac742352fc14ad2dda381174fe4338d73d6cdc) leaderboard.
 - 02/2022: Our [UniRPG](https://arxiv.org/pdf/2210.08249.pdf) (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
 - 02/2022: Our [OPERA](https://aclanthology.org/2022.naacl-main.119.pdf) (NAACL 2022) achieves the Top-1 on [DROP](https://leaderboard.allenai.org/drop/submissions/public) leaderboard.
@@ -34,6 +36,12 @@ I have some intern positions available at zuoyebang.com. If you have any interes
 
 ## Selected Publications
 #### For full publication list, please check [publication page](publications.md).
+- [[Paper](https://arxiv.org/pdf/2412.13862)] [CCF-A | 清华A] Yuzhong Hong, Hanshan Zhang, **Junwei Bao**, Hongfei Jiang, Yang Song: 
+  **Energy-Based Preference Model Offers Better Offline Alignment than the Bradley-Terry Preference Model**. ICML 2025
+
+- [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34558)] [CCF-A | 清华A] Yuchen Fan, Yuzhong Hong, Qiushi Wang, **Junwei Bao**, Hongfei Jiang, Yang Song: 
+  **Preference-Oriented Supervised Fine-Tuning: Favoring Target Model over Aligned Large Language Models**. AAAI 2025
+  
 - [[Paper](https://ieeexplore.ieee.org/abstract/document/10254290)] [CCF-A | 清华A] Guanming Xiong, **Junwei Bao**, Wen Zhao: 
   **Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with Large Language Models**. ACL 2024
   
